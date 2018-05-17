@@ -3,9 +3,9 @@ package testing;
 public class Fib_Prime {
 	
 	public static void main (String [] args) {
-		//System.out.println(fibonacci(4));
-		//System.out.println(fibonacci_i(7));
-		//System.out.println((int)Math.sqrt(6));
+		System.out.println(fibonacci(4));
+		System.out.println(fibonacci_i(7));
+		System.out.println((int)Math.sqrt(6));
 		System.out.print(is_prime(9));
 	}
 	
